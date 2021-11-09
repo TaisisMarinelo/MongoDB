@@ -1,12 +1,12 @@
 
 
-<img src="D:\Google Drive Taisis\Estudo\PAN ACADEMY -Turma 1\Mongobd\Mongodb\Imagens\pan.png" style="zoom:15%;" />
+<img src="https://github.com/TaisisMarinelo/Mongodb/blob/main/Mongodb/Imagens/pan.png" style="zoom:15%;" />
 
 
 
-![](D:\Google Drive Taisis\Estudo\PAN ACADEMY -Turma 1\Mongobd\Mongodb\Imagens\gama.png)
+![](https://github.com/TaisisMarinelo/Mongodb/blob/main/Mongodb/Imagens/gama.png)
 
-# \## Turma 1 - Banco MONGODB 
+### Turma 1 - Banco MONGODB 
 
 # <p align="center">Aula de utilização do Banco de dados MongoDB.</p>
 
@@ -20,11 +20,11 @@
 
 ### Criação BD: use livraria
 
-![](D:\Google Drive Taisis\Estudo\PAN ACADEMY -Turma 1\Mongobd\Mongodb\Imagens\criacaodb.JPG)
+![](https://github.com/TaisisMarinelo/Mongodb/blob/main/Mongodb/Imagens/criacaodb.JPG)
 
 ### Criação da Collection: db.createCollectio("Livros")
 
-![](D:\Google Drive Taisis\Estudo\PAN ACADEMY -Turma 1\Mongobd\Mongodb\Imagens\createcollection.JPG)
+![](https://github.com/TaisisMarinelo/Mongodb/blob/main/Mongodb/Imagens/createcollection.JPG)
 
 
 
@@ -264,27 +264,27 @@
 
 ```
 
-![](D:\Google Drive Taisis\Estudo\PAN ACADEMY -Turma 1\Mongobd\Mongodb\Imagens\BD.JPG)
+![](https://github.com/TaisisMarinelo/Mongodb/blob/main/Mongodb/Imagens/BD.JPG)
 
 
 
 ### Update de documentos, primeira imagem arquivos a serem atualizados, segunda terceira e questa atualização, quinta imagem arquivos já atualizados: 
 
-![](D:\Google Drive Taisis\Estudo\PAN ACADEMY -Turma 1\Mongobd\Mongodb\Imagens\BDupdate.JPG)
+![](https://github.com/TaisisMarinelo/Mongodb/blob/main/Mongodb/Imagens/BDupdate.JPG)
 
-![](D:\Google Drive Taisis\Estudo\PAN ACADEMY -Turma 1\Mongobd\Mongodb\Imagens\up1.JPG)
+![](https://github.com/TaisisMarinelo/Mongodb/blob/main/Mongodb/Imagens/up1.JPG)
 
-![up2](D:\Google Drive Taisis\Estudo\PAN ACADEMY -Turma 1\Mongobd\Mongodb\Imagens\up2.JPG)
+![up2](https://github.com/TaisisMarinelo/Mongodb/blob/main/Mongodb/Imagens/up2.JPG)
 
-![up3](D:\Google Drive Taisis\Estudo\PAN ACADEMY -Turma 1\Mongobd\Mongodb\Imagens\up3.JPG)
+![up3](https://github.com/TaisisMarinelo/Mongodb/blob/main/Mongodb/Imagens/up3.JPG)
 
-![upresult](D:\Google Drive Taisis\Estudo\PAN ACADEMY -Turma 1\Mongobd\Mongodb\Imagens\upresult.JPG)
+![upresult](https://github.com/TaisisMarinelo/Mongodb/blob/main/Mongodb/Imagens/upresult.JPG)
 
 
 
 ### Consulta Com projeção:
 
-![](D:\Google Drive Taisis\Estudo\PAN ACADEMY -Turma 1\Mongobd\Mongodb\Imagens\consultaprojecao.JPG)
+![](https://github.com/TaisisMarinelo/Mongodb/blob/main/Mongodb/Imagens/consultaprojecao.JPG)
 
 
 
@@ -497,7 +497,7 @@
 
 ### Consulta com combinação de Seletores:
 
-![](D:\Google Drive Taisis\Estudo\PAN ACADEMY -Turma 1\Mongobd\Mongodb\Imagens\Consultaseletores.JPG)
+![](https://github.com/TaisisMarinelo/Mongodb/blob/main/Mongodb/Imagens/Consultaseletores.JPG)
 
 
 
@@ -557,7 +557,7 @@
 
 ### Consulta paginada, ignorar :
 
-![](D:\Google Drive Taisis\Estudo\PAN ACADEMY -Turma 1\Mongobd\Mongodb\Imagens\paginacao.JPG)
+![](https://github.com/TaisisMarinelo/Mongodb/blob/main/Mongodb/Imagens/paginacao.JPG)
 
 ```
 /* 1 */
@@ -705,7 +705,7 @@
 
 ### Consulta ordenada: 
 
-![](D:\Google Drive Taisis\Estudo\PAN ACADEMY -Turma 1\Mongobd\Mongodb\Imagens\Consultaordenada.JPG)
+![](https://github.com/TaisisMarinelo/Mongodb/blob/main/Mongodb/Imagens/Consultaordenada.JPG)
 
 
 
@@ -1005,7 +1005,7 @@
 
 ### Consulta ordenada, limitar :
 
-![](D:\Google Drive Taisis\Estudo\PAN ACADEMY -Turma 1\Mongobd\Mongodb\Imagens\ordemlimit.JPG)
+![](https://github.com/TaisisMarinelo/Mongodb/blob/main/Mongodb/Imagens/ordemlimit.JPG)
 
 
 
@@ -1115,7 +1115,7 @@
 
 ### Consulta ordenada e classificar :
 
-![](D:\Google Drive Taisis\Estudo\PAN ACADEMY -Turma 1\Mongobd\Mongodb\Imagens\ordenadaclassificada.JPG)
+![](https://github.com/TaisisMarinelo/Mongodb/blob/main/Mongodb/Imagens/ordenadaclassificada.JPG)
 
 ```
 /* 1 */
@@ -1413,9 +1413,9 @@
 
 ### Exclusão de documentos:
 
-![](D:\Google Drive Taisis\Estudo\PAN ACADEMY -Turma 1\Mongobd\Mongodb\Imagens\docexcluir.JPG)
+![](https://github.com/TaisisMarinelo/Mongodb/blob/main/Mongodb/Imagens/docexcluir.JPG)
 
-![](D:\Google Drive Taisis\Estudo\PAN ACADEMY -Turma 1\Mongobd\Mongodb\Imagens\exclusucesso.jpg)
+![](https://github.com/TaisisMarinelo/Mongodb/blob/main/Mongodb/Imagens/exclusucesso.jpg)
 
 
 
