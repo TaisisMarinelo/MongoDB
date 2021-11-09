@@ -6,7 +6,7 @@
 
 <img src="https://github.com/TaisisMarinelo/Mongodb/blob/main/ClinicaMongo/src/assets/readme/138007193-47cac947-928e-4909-a299-0ae99b35eed9.png" style="zoom:25%;" />
 
-# \## Turma 1 - API **Consultório Gama Pan anatomy** <p align="center">Api utilizando Mongodb para agendamento de consultas.</p>
+### Turma 1 - API **Consultório Gama Pan anatomy** <p align="center">Api utilizando Mongodb para agendamento de consultas.</p>
 
 
 
@@ -29,6 +29,8 @@ Tópicos
   * * [Tecnologias](\###Tecnologias) 
 
 <!--te-->
+
+
 
 [Sobre](#Sobre) 
 
@@ -76,13 +78,13 @@ Utilizando o Postman:
 
  Com o endereço http://localhost:8080/medicos e a requisição POST irem popular o banco com os médicos  a cadastrar.
 
-![](D:\Dev\workspace-taisis\ClinicaMongo\src\assets\readme\Insert.JPG)                                    
+![](https://github.com/TaisisMarinelo/Mongodb/blob/main/ClinicaMongo/src/assets/readme/Insert.JPG)                                    
 
 
 
 Com o endereço http://localhost:8080/consulta e a requisição POST irem popular o banco com as consultas.
 
-![](D:\Dev\workspace-taisis\ClinicaMongo\src\assets\readme\Insert2.JPG)
+![](https://github.com/TaisisMarinelo/Mongodb/blob/main/ClinicaMongo/src/assets/readme/Insert2.JPG)
 
 
 
@@ -90,7 +92,7 @@ Com o endereço http://localhost:8080/consulta e a requisição POST irem popula
 
 Com o endereço http://localhost:8080/consulta e a requisição PUT podemos atualizar o banco com as consultas.
 
-![](D:\Dev\workspace-taisis\ClinicaMongo\src\assets\readme\update.JPG)
+![](https://github.com/TaisisMarinelo/Mongodb/blob/main/ClinicaMongo/src/assets/readme/update.JPG)
 
 
 
@@ -98,11 +100,11 @@ Com o endereço http://localhost:8080/consulta e a requisição PUT podemos atua
 
 Com o endereço http://localhost:8080/consulta/id e http://localhost:8080/medico/id  e a requisição GET iremos buscar no banco as consultas, e os médicos passando o id, também  e possível realizar a busca sem o id e obter todos os resultados do banco.
 
-![](D:\Dev\workspace-taisis\ClinicaMongo\src\assets\readme\buscac.JPG)
+![](https://github.com/TaisisMarinelo/Mongodb/blob/main/ClinicaMongo/src/assets/readme/buscac.JPG)
 
 
 
-![](D:\Dev\workspace-taisis\ClinicaMongo\src\assets\readme\buscam.JPG)
+![](https://github.com/TaisisMarinelo/Mongodb/blob/main/ClinicaMongo/src/assets/readme/buscam.JPG)
 
 
 
